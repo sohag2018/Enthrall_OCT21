@@ -1,5 +1,7 @@
 package Lec35_CollectionFramework_Array;
 
+import java.util.Arrays;
+
 /*What is array?
  *Ans: -- is a container object that holds a fixed number of values of a single type (same type)
  *Why do we need it?
@@ -63,6 +65,8 @@ using for loop, Scanner class, Random class
 public class Array_1_info {
 
 	public static void main(String[] args) {
+		
+		
 		
 	
 	}	

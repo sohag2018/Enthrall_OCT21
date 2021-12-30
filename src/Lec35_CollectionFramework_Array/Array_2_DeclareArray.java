@@ -1,5 +1,7 @@
 package Lec35_CollectionFramework_Array;
 
+import java.util.Arrays;
+
 public class Array_2_DeclareArray {
 
 	public static void main(String[] args) {
@@ -9,6 +11,12 @@ public class Array_2_DeclareArray {
 		//a[1]="Ryhan"; 
 		a[3]=35;
 		a[4]=3;
+		
+		for(int i=0;i<5;i++) {
+			System.out.println(a[i]);
+		}
+		
+		
 		
 		
 		System.out.println(a[4]);
