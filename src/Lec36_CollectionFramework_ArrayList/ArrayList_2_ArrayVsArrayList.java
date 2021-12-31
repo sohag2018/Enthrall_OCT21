@@ -55,6 +55,8 @@ public class ArrayList_2_ArrayVsArrayList {
 		
 		
 		
+		
+		
 		//this is not capacity--it is size of the arraylist
 		System.out.println("Size of the arrayList is:"+al.size());
 		
