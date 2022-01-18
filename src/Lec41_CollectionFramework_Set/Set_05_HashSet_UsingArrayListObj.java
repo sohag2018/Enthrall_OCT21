@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class Set_HashSet_04_UsingArrayListObj {
+public class Set_05_HashSet_UsingArrayListObj {
 
 	public static void main(String[] args) {
 		ArrayList<Integer> list1=new ArrayList<>();
@@ -19,6 +19,8 @@ public class Set_HashSet_04_UsingArrayListObj {
 		list2.add(50);
 		list2.add(150);
 		list2.add(250);
+		//System.out.println(list2.get(1));
+		
 		
 	//	Set<ArrayList> s=new TreeSet<>();------> not possible
 		Set<ArrayList> s=new HashSet<>();

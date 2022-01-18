@@ -62,6 +62,6 @@ Class Plan:
 
 
 
-public class Set_Info {
+public class Set_01_Info {
 
 }

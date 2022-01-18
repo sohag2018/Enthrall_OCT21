@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
-public class Set_HashSet_01_Basic {
+public class Set_02_HashSet_Basic {
 
 	public static void main(String[] args) {
 		//Creating set raw type

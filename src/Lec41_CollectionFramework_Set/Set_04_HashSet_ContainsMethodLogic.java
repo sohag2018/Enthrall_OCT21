@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
-public class Set_HashSet_03_ContainsMethodLogic {
+public class Set_04_HashSet_ContainsMethodLogic {
 
 	public static void main(String[] args) {
 		Set<String> s=new HashSet<>();

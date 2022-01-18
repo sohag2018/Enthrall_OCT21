@@ -3,7 +3,7 @@ package Lec41_CollectionFramework_Set;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Set_HashSet_02_Manipulaiton {
+public class Set_03_HashSet_Manipulaiton {
 
 	public static void main(String[] args) {
 		
@@ -14,10 +14,18 @@ public class Set_HashSet_02_Manipulaiton {
 
 		//2nd set
 		Set<Integer> s2=new HashSet<Integer>();
-		s2.add(15);
-		s2.add(25);
-		s2.add(35);
-		s2.add(55);
+		for(int i=10;i<200;i++) {
+			
+			if(i%2==0) {
+				s2.add(i);
+			}
+			
+		}
+		
+//		s2.add(10);
+//		s2.add(11);
+//		s2.add(35);
+//		s2.add(55);
 		
 		//using addAll() insert all in 1st set set
 		s.addAll(s2);

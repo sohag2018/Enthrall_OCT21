@@ -3,7 +3,7 @@ package Lec41_CollectionFramework_Set;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class Set_TreeSet_01_Basic {
+public class Set_06_TreeSet_Basic {
 
 	public static void main(String[] args) {
 		//creating set--generic<Integer>
