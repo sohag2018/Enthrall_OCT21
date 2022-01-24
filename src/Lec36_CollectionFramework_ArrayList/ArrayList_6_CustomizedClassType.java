@@ -15,10 +15,10 @@ public class ArrayList_6_CustomizedClassType {
 		
 		//as we need obj of EnthrallStudents type--so we ae creating obj of EnthrallStudents class
 		//we are passing Name (String) through contractor
-		EnthrallStudents st1=new EnthrallStudents("Sohag");
-		EnthrallStudents st2=new EnthrallStudents("Noyon");
-		EnthrallStudents st3=new EnthrallStudents("Fatima");
-		EnthrallStudents st4=new EnthrallStudents("Onik");
+		EnthrallStudents st1=new EnthrallStudents("Rafez",25,'M');
+		EnthrallStudents st2=new EnthrallStudents("Noyon",27,'M');
+		EnthrallStudents st3=new EnthrallStudents("Fatima",19,'F');
+		EnthrallStudents st4=new EnthrallStudents("Onik",26,'M');
 		
 		//we created 4 objs--now adding in arraylist
 		cl.add(st1);

@@ -17,7 +17,7 @@ public class Array_5_PrintArray {
 		System.out.println(students[0]);
 		
 		//by using for loop
-		for(int i=students.length-1;i>0;i--) {
+		for(int i=students.length-1;i>2;i--) {
 			System.out.println(students[i]);
 		}
 		

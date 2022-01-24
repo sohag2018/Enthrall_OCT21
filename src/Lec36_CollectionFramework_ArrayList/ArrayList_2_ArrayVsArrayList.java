@@ -38,7 +38,7 @@ public class ArrayList_2_ArrayVsArrayList {
 		}
 		
 		//ArrayList
-		ArrayList<Integer> al=new ArrayList<>();  //initial capacity is 10 +5 =15 21 --	//for capacity please check info class  
+		ArrayList<Integer> al=new ArrayList<>(12);  //by using default constructor--initial capacity is 10 +5 =15 21 --	//for capacity please check info class  
 		
 		al.add(5);
 		al.add(15);
